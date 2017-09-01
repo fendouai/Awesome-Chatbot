@@ -1,4 +1,4 @@
-# Awesome Chatbot Project
+# Awesome Chatbot Projects
 
 ## Chatbot
 
@@ -119,6 +119,12 @@ https://github.com/AlJohri/OpenSubtitles
 OpenData in insurance area for Machine Learning Tasks
 
 https://github.com/Samurais/insuranceqa-corpus-zh
+
+### dgk_lost_conv
+
+dgk_lost_conv 中文对白语料 chinese conversation corpus
+
+https://github.com/majoressense/dgk_lost_conv
 
 
 ## Papers
