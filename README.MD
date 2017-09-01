@@ -84,7 +84,7 @@ https://github.com/qhduan/Seq2Seq_Chatbot_QA
 https://github.com/zake7749/Chatbot
 
 
-##Dataset
+## Corpus
 
 ### Cornell Movie-Dialogs Corpus
 
