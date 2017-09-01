@@ -26,7 +26,13 @@ My tensorflow implementation of "A neural conversational model", a Deep learning
 
 https://github.com/Conchylicultor/DeepQA
 
-chatbot-rnn
+### neuralconvo
+
+Neural conversational model in Torch
+
+https://github.com/macournoyer/neuralconvo
+
+### chatbot-rnn
 
 A toy chatbot powered by deep learning and trained on data from Reddit
 
@@ -83,6 +89,12 @@ https://github.com/qhduan/Seq2Seq_Chatbot_QA
 
 https://github.com/zake7749/Chatbot
 
+### chatbot-zh-torch7
+
+中文Neural conversational model in Torch
+
+https://github.com/majoressense/chatbot-zh-torch7
+
 
 ## Corpus
 
@@ -120,6 +132,10 @@ http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-netwo
 http://arxiv.org/pdf/1506.05869v1.pdf
 
 ## Tutorial
+
+### Research Blog: Computer, respond to this email.
+
+https://research.googleblog.com/2015/11/computer-respond-to-this-email.html
 
 ### Deep Learning for Chatbots, Part 1 – Introduction
 
