@@ -74,6 +74,11 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
 
+### Dear AI
+
+AI chatbot for customer service
+
+https://www.dearai.online
 
 ## Chinese_Chatbot
 
