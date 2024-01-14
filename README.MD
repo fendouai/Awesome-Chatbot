@@ -76,7 +76,7 @@ https://github.com/inikdom/neural-chatbot
 
 ### Dear AI
 
-AI chatbot for customer service
+Supercharge Customer Services and boost sales with AI Chatbot
 
 https://www.dearai.online
 
