@@ -153,3 +153,9 @@ http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model
 
 ## More
 [http://www.tensorflownews.com/](http://www.tensorflownews.com/)
+
+### Vedika
+
+AI-powered Vedic astrology chatbot API with natural language understanding. Ask questions like "When should I start my business?" and get intelligent astrological insights. Supports 22 languages.
+
+https://vedika.io
