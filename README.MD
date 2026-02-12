@@ -20,6 +20,12 @@ ChatterBot is a machine learning, conversational dialog engine for creating chat
 
 http://chatterbot.readthedocs.io/
 
+### ClawdTalk
+
+Voice interface for AI agents. Phone calls + SMS to your AI.
+
+https://clawdtalk.com / https://github.com/team-telnyx/clawdtalk-client
+
 ### DeepQA
 
 My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot
@@ -73,6 +79,12 @@ http://chatbot.sohelamin.com/
 A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
+
+### Telnyx
+
+CPaaS with voice AI, SIP trunking, SMS.
+
+https://telnyx.com
 
 
 ## Chinese_Chatbot
