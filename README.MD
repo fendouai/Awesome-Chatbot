@@ -1,5 +1,6 @@
 # Awesome Chatbot Projects
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent/chatbot system prompts for multi-agent orchestration with automated conversation handling and task delegation. MIT licensed.
 ## Chatbot
 
 ### ParlAI
