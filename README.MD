@@ -151,5 +151,13 @@ http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
 
 http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
 
+## Marketplace
+
+### RemoteOpenClaw
+
+Open marketplace for AI skills and personas built on OpenClaw.
+
+https://remoteopenclaw.com
+
 ## More
 [http://www.tensorflownews.com/](http://www.tensorflownews.com/)
