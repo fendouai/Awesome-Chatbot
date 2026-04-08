@@ -74,6 +74,12 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
 
+### Overloop CLI
+
+AI-powered outbound sales automation engine. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, and manage conversations from the terminal. JSON output, agent-native.
+
+https://github.com/sortlist/overloop-cli
+
 
 ## Chinese_Chatbot
 
