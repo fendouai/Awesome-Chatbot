@@ -75,6 +75,17 @@ A chatbot based on seq2seq architecture done with tensorflow.
 https://github.com/inikdom/neural-chatbot
 
 
+## Tools
+
+### Helium MCP
+
+MCP-compatible remote server for real-time financial data, ML options pricing, and news bias analysis. Free, no API key; useful for giving chatbots financial and market context.
+
+https://github.com/connerlambden/helium-mcp
+
+https://heliumtrades.com/mcp
+
+
 ## Chinese_Chatbot
 
 ### Seq2Seq_Chatbot_QA
