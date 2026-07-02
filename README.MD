@@ -75,6 +75,13 @@ A chatbot based on seq2seq architecture done with tensorflow.
 https://github.com/inikdom/neural-chatbot
 
 
+### qq-ai-bot
+
+Production-grade self-hosted QQ AI bot scaffold using OneBot 11, NapCat / LLOneBot, ACP-compatible agents, persistent sessions, and progress streaming.
+
+https://github.com/happysnaker/qq-ai-bot
+
+
 ## Chinese_Chatbot
 
 ### Seq2Seq_Chatbot_QA
