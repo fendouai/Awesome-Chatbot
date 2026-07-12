@@ -75,6 +75,12 @@ A chatbot based on seq2seq architecture done with tensorflow.
 https://github.com/inikdom/neural-chatbot
 
 
+### wechat-mac-rpa
+
+Visual AI agent for WeChat automation on macOS — no protocol reverse engineering, no database access, uses multimodal vision perception and LLM with memory system and multi-agent architecture.
+
+https://github.com/wq19901103wq/wechat-mac-rpa
+
 ## Chinese_Chatbot
 
 ### Seq2Seq_Chatbot_QA
