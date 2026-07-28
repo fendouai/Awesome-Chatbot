@@ -2,6 +2,12 @@
 
 ## Chatbot
 
+### [Lynote AI Humanizer](https://lynote.ai/ai-humanizer)
+
+Best AI Humanizer Free Online Tools
+
+https://github.com/lynote-ai/humanize-text
+
 ### ParlAI
 
 A framework for training and evaluating AI models on a variety of openly available dialog datasets.
