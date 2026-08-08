@@ -81,6 +81,15 @@ A chatbot based on seq2seq architecture done with tensorflow.
 https://github.com/inikdom/neural-chatbot
 
 
+## Voice Chatbots
+
+### AnveVoice
+
+Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
+
+https://anvevoice.app
+
+
 ## Chinese_Chatbot
 
 ### Seq2Seq_Chatbot_QA
