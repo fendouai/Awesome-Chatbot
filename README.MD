@@ -81,6 +81,8 @@ A chatbot based on seq2seq architecture done with tensorflow.
 https://github.com/inikdom/neural-chatbot
 
 
+- [DoaCam](https://doacam.com) - 3D AI avatar you can video call in the browser with real-time voice, camera vision, facial expressions, and persistent memory.
+
 ## Chinese_Chatbot
 
 ### Seq2Seq_Chatbot_QA
