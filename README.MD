@@ -80,6 +80,12 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
 
+### PraisonAI
+
+Production-ready Multi-AI Agents framework with chat UI, 100+ LLM support via LiteLLM, MCP integration, agentic workflows, and built-in memory.
+
+https://github.com/MervinPraison/PraisonAI
+
 
 ## Chinese_Chatbot
 
