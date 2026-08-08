@@ -80,6 +80,12 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
 
+### Sayna
+
+Real-time voice infrastructure for chatbots and conversational agents. Provides low-latency WebSocket streaming, REST APIs, and LiveKit integration with pluggable speech providers.
+
+https://github.com/SaynaAI/sayna
+
 
 ## Chinese_Chatbot
 
