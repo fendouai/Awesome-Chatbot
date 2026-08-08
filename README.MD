@@ -80,6 +80,11 @@ A chatbot based on seq2seq architecture done with tensorflow.
 
 https://github.com/inikdom/neural-chatbot
 
+### IntelliChat
+
+A modern chatbot supporting multiple LLMs.
+
+https://github.com/intelligentnode/IntelliChat
 
 ## Chinese_Chatbot
 
