@@ -2,6 +2,12 @@
 
 ## Chatbot
 
+### [OctaDezx](https://octadezx.com)
+
+Autonomous customer care platform and phone voice AI dispatch with Model Context Protocol integration and zero resolution tax.
+
+https://github.com/cleverfox-77/octadezx-mcp
+
 ### [Lynote AI Humanizer](https://lynote.ai/ai-humanizer)
 
 Best AI Humanizer Free Online Tools
